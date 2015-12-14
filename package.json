@@ -1,6 +1,6 @@
 {
   "name": "color-me-sass",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Sass color library",
   "main": "index.js",
   "scripts": {
